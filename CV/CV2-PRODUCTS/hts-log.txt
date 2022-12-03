@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Dec 2022 21:00:33 at https://rainbowit.net/themes/inbio/consulting/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://rainbowit.net/themes/inbio/consulting/ -O1 "C:\Users\ernes\Desktop\Proyecto\UI\CV\CV2-PRODUCTS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:00:38	Warning: 	File not parsed, looks like binary: https://rainbowit.net/robots.txt
+21:00:38	Warning: 	Link https://rainbowit.net/themes/inbio/consulting/ not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 seconds : 2 links scanned, 1 files written (271997 bytes overall) [30732 bytes received at 5122 bytes/sec], 273063 bytes transferred using HTTP compression in 2 files, ratio 10%
+(No errors, 2 warnings, 0 messages)

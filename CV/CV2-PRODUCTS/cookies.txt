@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+rainbowit.net	TRUE	/	FALSE	1999999999	mailchimp_landing_site	https%3A%2F%2Frainbowit.net%2Frobots.txt
+rainbowit.net	TRUE	/	FALSE	1999999999	SameSite	Strict
+

@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Dec 2022 06:42:08 at https://preview.themeforest.net/item/nimoy-login-and-register-form-html-template/full_screen_preview/31546579?_ga=2.157697914.1344049053.1669981053-1982607021.1669981053 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" -Y https://preview.themeforest.net/item/nimoy-login-and-register-form-html-template/full_screen_preview/31546579?_ga=2.157697914.1344049053.1669981053-1982607021.1669981053 -O1 "C:\Users\ernes\Desktop\Proyecto\UI\Login-template\Login2-template" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:42:11	Warning: 	Link https://preview.themeforest.net/item/nimoy-login-and-register-form-html-template/full_screen_preview/31546579?_ga=2.157697914.1344049053.1669981053-1982607021.1669981053 not scanned (follow robots meta tag)
+06:42:12	Warning: 	Note: due to s3.envato.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+06:42:12	Error: 	"Forbidden" (403) at link s3.envato.com/ (from https://preview.themeforest.net/item/nimoy-login-and-register-form-html-template/full_screen_preview/31546579?_ga=2.157697914.1344049053.1669981053-1982607021.1669981053)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 6 links scanned, 3 files written (91088 bytes overall) [78330 bytes received at 19582 bytes/sec], 25001 bytes transferred using HTTP compression in 2 files, ratio 30%, 1.2 requests per connection
+(1 errors, 2 warnings, 0 messages)

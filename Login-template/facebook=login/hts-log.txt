@@ -1,0 +1,403 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Dec 2022 20:46:35 at https://www.facebook.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.facebook.com/ -O1 "C:\Users\ernes\Desktop\Proyecto\UI\Login-template\facebook=login" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:47:00	Warning: 	Found for https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjcwMDMxOTk0LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&ars=facebook_login
+20:47:00	Warning: 	File has moved from https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjcwMDMxOTk0LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&ars=facebook_login to https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0
+20:47:39	Warning: 	Found for https://www.facebook.com/marketplace/
+20:47:39	Warning: 	File has moved from https://www.facebook.com/marketplace/ to https://www.facebook.com/login/?next=%2Fmarketplace%2F
+20:51:55	Warning: 	Found for https://www.facebook.com/careers/?ref=pf
+20:51:55	Warning: 	File has moved from https://www.facebook.com/careers/?ref=pf to https://www.facebookcareers.com/
+20:54:14	Error: 	Exit requested by shell or user
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/allactivity?privacy_source=activity_log_top_menu (from https://www.facebook.com/)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/UDk0ZX (from https://www.facebook.com/)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pzzowf (from https://www.facebook.com/)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/JydrTb (from https://www.facebook.com/)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/UDk0ZX/ (from https://www.facebook.com/)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/chrome-extension:// (from https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/eb9i63Mnvt2.js?_nc_x=Ij3Wp8lg5Kz)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/GET (from https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/eb9i63Mnvt2.js?_nc_x=Ij3Wp8lg5Kz)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/intern/rsrc.php (from https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/eb9i63Mnvt2.js?_nc_x=Ij3Wp8lg5Kz)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/intern/rsrc-translations.php (from https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/eb9i63Mnvt2.js?_nc_x=Ij3Wp8lg5Kz)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/rsrc.php (from https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/eb9i63Mnvt2.js?_nc_x=Ij3Wp8lg5Kz)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/rsrc-translations.php (from https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/eb9i63Mnvt2.js?_nc_x=Ij3Wp8lg5Kz)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pages/create/theaustralian.com.au (from https://www.facebook.com/pages/create/?ref_type=registration_form)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pages/create/news.com.au (from https://www.facebook.com/pages/create/?ref_type=registration_form)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pages/create/kollosche.com.au (from https://www.facebook.com/pages/create/?ref_type=registration_form)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pages/create/awstrack.me (from https://www.facebook.com/pages/create/?ref_type=registration_form)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pages/create/UDk0ZX (from https://www.facebook.com/pages/create/?ref_type=registration_form)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pages/create/pzzowf (from https://www.facebook.com/pages/create/?ref_type=registration_form)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pages/create/JydrTb (from https://www.facebook.com/pages/create/?ref_type=registration_form)
+20:54:18	Error: 	"Not Found" (404) at link https://www.facebook.com/pages/create/CJAsBT (from https://www.facebook.com/pages/create/?ref_type=registration_form)
+20:54:19	Error: 	"Not Found" (404) at link https://www.facebook.com/reg/help/637205020878504 (from https://www.facebook.com/reg/)
+20:54:19	Error: 	"Not Found" (404) at link https://www.facebook.com/reg/__markup_9f5fac15_0_e_g (from https://www.facebook.com/reg/)
+20:54:19	Error: 	"Not Found" (404) at link https://www.facebook.com/reg/__markup_9f5fac15_0_f_c (from https://www.facebook.com/reg/)
+20:54:19	Error: 	"Not Found" (404) at link https://www.facebook.com/reg/UDk0ZX (from https://www.facebook.com/reg/)
+20:54:19	Error: 	"Not Found" (404) at link https://www.facebook.com/reg/pzzowf (from https://www.facebook.com/reg/)
+20:54:19	Error: 	"Not Found" (404) at link https://www.facebook.com/reg/JydrTb (from https://www.facebook.com/reg/)
+20:54:19	Warning: 	Found for https://www.facebook.com/recover/initiate/?ars=facebook_login
+20:54:19	Warning: 	File has moved from https://www.facebook.com/recover/initiate/?ars=facebook_login to https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0
+20:54:20	Error: 	"Not Found" (404) at link https://www.facebook.com/login/help/637205020878504 (from https://www.facebook.com/login/)
+20:54:20	Error: 	"Not Found" (404) at link https://www.facebook.com/login/UDk0ZX (from https://www.facebook.com/login/)
+20:54:20	Error: 	"Not Found" (404) at link https://www.facebook.com/login/pzzowf (from https://www.facebook.com/login/)
+20:54:20	Error: 	"Not Found" (404) at link https://www.facebook.com/login/JydrTb (from https://www.facebook.com/login/)
+20:54:20	Warning: 	Found for https://www.facebook.com/sideload/lite/download/?campaign_id=0
+20:54:20	Warning: 	File has moved from https://www.facebook.com/sideload/lite/download/?campaign_id=0 to https://www.facebook.com/lite/
+20:54:20	Warning: 	Found for https://www.facebook.com/sideload/lite/googleplay/
+20:54:20	Warning: 	File has moved from https://www.facebook.com/sideload/lite/googleplay/ to https://play.google.com/store/apps/details?id=com.facebook.lite
+20:54:20	Error: 	"Not Found" (404) at link https://www.facebook.com/lite/help/637205020878504 (from https://www.facebook.com/lite/)
+20:54:20	Error: 	"Not Found" (404) at link https://www.facebook.com/lite/UDk0ZX (from https://www.facebook.com/lite/)
+20:54:20	Error: 	"Not Found" (404) at link https://www.facebook.com/lite/pzzowf (from https://www.facebook.com/lite/)
+20:54:20	Error: 	"Not Found" (404) at link https://www.facebook.com/lite/JydrTb (from https://www.facebook.com/lite/)
+20:54:34	Error: 	"Not Found" (404) at link https://www.facebook.com/places/theaustralian.com.au (from https://www.facebook.com/places/)
+20:54:34	Error: 	"Not Found" (404) at link https://www.facebook.com/places/news.com.au (from https://www.facebook.com/places/)
+20:54:34	Error: 	"Not Found" (404) at link https://www.facebook.com/places/kollosche.com.au (from https://www.facebook.com/places/)
+20:54:34	Error: 	"Not Found" (404) at link https://www.facebook.com/places/awstrack.me (from https://www.facebook.com/places/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/fundraisers/__elem_fc06e134_0_1_8 (from https://www.facebook.com/fundraisers/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/fundraisers/u_0_i_r (from https://www.facebook.com/fundraisers/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/fundraisers/u_0_12_G (from https://www.facebook.com/fundraisers/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/fundraisers/u_0_1c_b (from https://www.facebook.com/fundraisers/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/fundraisers/__markup_d3c2dfe2_0_b_P (from https://www.facebook.com/fundraisers/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/fundraisers/UDk0ZX (from https://www.facebook.com/fundraisers/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/fundraisers/pzzowf (from https://www.facebook.com/fundraisers/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/fundraisers/JydrTb (from https://www.facebook.com/fundraisers/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AD/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AF/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AL/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AU/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AW/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/AZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BB/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BD/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BF/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BH/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BJ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BQ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BS/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BW/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/BZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CD/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CH/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CL/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CU/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CV/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CW/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/CZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/DE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/DJ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/DK/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/DM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/DO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/DZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/EC/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/EE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/EG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/ES/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/ET/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/FI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/FJ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/FO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/FR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GB/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GD/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GF/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GH/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GP/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GU/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/GY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/HK/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/HN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/HR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/HT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/HU/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/ID/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/IE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/IL/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/IM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/IN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/IQ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/IR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/IS/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/IT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/JE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/JM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/JO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/JP/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/KE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/KG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/KH/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/KN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/KR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/KW/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/KY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/KZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LB/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LC/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LK/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LS/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LU/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LV/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/LY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MC/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MD/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/ME/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MF/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MK/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/ML/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MP/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MQ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MU/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MV/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MW/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MX/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/MZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NC/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NL/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NP/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/NZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/OM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PF/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PH/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PK/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PL/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PS/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/PY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/QA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/RE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/RO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/RS/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/RU/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/RW/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Error: 	"Not Found" (404) at link https://www.facebook.com/biz/directory/SA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SB/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SB/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SC/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SC/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SD/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SD/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SE/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SG/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SI/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SK/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SK/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SL/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SL/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SM/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SN/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SO/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SR/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SS/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SS/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SV/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SV/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SX/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SX/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SY/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/SZ/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/SZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TC/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TC/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TD/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TD/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TG/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TH/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TH/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TJ/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TJ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TL/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TL/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TN/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TO/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TO/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TR/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TR/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TT/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TW/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TW/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/TZ/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/TZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/UA/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/UA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/UG/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/UG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/US/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/US/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/UY/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/UY/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/UZ/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/UZ/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/VA/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/VA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/VC/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/VC/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/VE/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/VE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/VG/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/VG/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/VI/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/VI/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/VN/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/VN/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/VU/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/VU/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/WS/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/WS/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/XK/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/XK/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/YE/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/YE/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/YT/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/YT/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/ZA/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/ZA/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/ZM/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/ZM/ (from https://www.facebook.com/biz/directory/)
+20:55:05	Warning: 	File not added due to mirror cancel: https://www.facebook.com/biz/directory/ZW/
+20:55:05	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/biz/directory/ZW/ (from https://www.facebook.com/biz/directory/)
+20:55:06	Warning: 	File not added due to mirror cancel: https://static.xx.fbcdn.net/rsrc.php/v3iOxc4/yF/l/es_LA/2_KVPiLT-GBB9EaYJZl-lrQsBBDbSY2q4UpN3gQ0SeZrqIU9h17ho3kYMHVsdWqltXTRExfpNL8xosyOJVPRlF5ef7iNOV5jRwNIDnOB0_p8Klhkb5KjQo45u.js?_nc_x=Ij3Wp8lg5Kz
+20:55:06	Error: 	"mirror stopped by user" (-1) at link https://static.xx.fbcdn.net/rsrc.php/v3iOxc4/yF/l/es_LA/2_KVPiLT-GBB9EaYJZl-lrQsBBDbSY2q4UpN3gQ0SeZrqIU9h17ho3kYMHVsdWqltXTRExfpNL8xosyOJVPRlF5ef7iNOV5jRwNIDnOB0_p8Klhkb5KjQo45u.js?_nc_x=Ij3Wp8lg5Kz (from https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)
+20:55:09	Error: 	"Not Found" (404) at link https://www.facebook.com/votinginformationcenter/'https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/L19T_CK8gdR.png' (from https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)
+20:55:09	Warning: 	File not added due to mirror cancel: https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2Fvotinginformationcenter%2F%3Fentry_point%3Dc2l0ZQ%253D%253D
+20:55:09	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2Fvotinginformationcenter%2F%3Fentry_point%3Dc2l0ZQ%253D%253D (from https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)
+20:55:09	Error: 	"Not Found" (404) at link https://www.facebook.com/votinginformationcenter/'https://static.xx.fbcdn.net/rsrc.php/v3/yw/r/Jq3vfsRQqYK.png' (from https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)
+20:55:09	Error: 	"Not Found" (404) at link https://www.facebook.com/votinginformationcenter/'https://static.xx.fbcdn.net/rsrc.php/v3/yG/r/NUGgfzeInZL.png' (from https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)
+20:55:09	Error: 	"Not Found" (404) at link https://www.facebook.com/votinginformationcenter/'https://static.xx.fbcdn.net/rsrc.php/v3/yg/r/ujWafOF28tP.png' (from https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)
+20:55:09	Warning: 	File not added due to mirror cancel: https://www.facebook.com/privacy/checkup/
+20:55:09	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/privacy/checkup/ (from https://www.facebook.com/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D)
+20:55:10	Warning: 	File not added due to mirror cancel: https://static.xx.fbcdn.net/rsrc.php/v3iWej4/y0/l/es_LA/TDG1DphmZDl7lrBIrofI9JdF3pdfdGFzJpTvSWFTe27B1iLzWy9g3BBaPSIKWlVJZPmgqAxtoIzwNQjhgdktp5ZM1iEty47D1lAIS2cFOLd3HCXDwh5px8GexupN0_lqYLgmPWlwX91MKW_K_jiO2rP8Y7b8eA3vytiY_tWRAgURhnMEhAqK8ZX31SaTRExfpNL8xoTIZbDVxENnerj3SeHISlQCKJeFwStOuz9xMdiSUDSr9vq_s57kSlVYZ8OSA6KIjZBnmqR1ucP_7aNUUZUOhRcXGZhkb5KjQo45uTpYNQy61Xr9rCaiywgG_mvziC7kyfz8pw.js?_nc_x=Ij3Wp8lg5Kz
+20:55:10	Error: 	"mirror stopped by user" (-1) at link https://static.xx.fbcdn.net/rsrc.php/v3iWej4/y0/l/es_LA/TDG1DphmZDl7lrBIrofI9JdF3pdfdGFzJpTvSWFTe27B1iLzWy9g3BBaPSIKWlVJZPmgqAxtoIzwNQjhgdktp5ZM1iEty47D1lAIS2cFOLd3HCXDwh5px8GexupN0_lqYLgmPWlwX91MKW_K_jiO2rP8Y7b8eA3vytiY_tWRAgURhnMEhAqK8ZX31SaTRExfpNL8xoTIZbDVxENnerj3SeHISlQCKJeFwStOuz9xMdiSUDSr9vq_s57kSlVYZ8OSA6KIjZBnmqR1ucP_7aNUUZUOhRcXGZhkb5KjQo45uTpYNQy61Xr9rCaiywgG_mvziC7kyfz8pw.js?_nc_x=Ij3Wp8lg5Kz (from https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+20:55:21	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/policy/theaustralian.com.au (from https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+20:55:21	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/policy/news.com.au (from https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+20:55:21	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/policy/kollosche.com.au (from https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+20:55:21	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/policy/awstrack.me (from https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+20:55:21	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/policy/t8S1ew (from https://www.facebook.com/privacy/policy/?entry_point=facebook_page_footer)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/center/theaustralian.com.au (from https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/center/news.com.au (from https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/center/kollosche.com.au (from https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/privacy/center/awstrack.me (from https://www.facebook.com/privacy/center/?entry_point=facebook_page_footer)
+20:55:22	Warning: 	File not added due to mirror cancel: https://static.xx.fbcdn.net/rsrc.php/v3ir9q4/y5/l/es_LA/mwQRCuR_fs6U6pp2TafDlJ1iLzWy9g3BBLgvwffuKmeXBuYfq82G9Gq1iEty47D1lAupN0_lqYLgmj007QvtfTQF5pRm_HTJk0hZgwlmAmuSHcuEFEbyP2L2vrj3SeHISlQCbsQtAqRAXAX8xjLAxLhJkMo7Xol2ofpnQxMdiSUDSr9vsQ3RQ8bN0yarjFZS_KW3Snhkb5KjQo45uuN_sLnC-Lrn.js?_nc_x=Ij3Wp8lg5Kz
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://static.xx.fbcdn.net/rsrc.php/v3ir9q4/y5/l/es_LA/mwQRCuR_fs6U6pp2TafDlJ1iLzWy9g3BBLgvwffuKmeXBuYfq82G9Gq1iEty47D1lAupN0_lqYLgmj007QvtfTQF5pRm_HTJk0hZgwlmAmuSHcuEFEbyP2L2vrj3SeHISlQCbsQtAqRAXAX8xjLAxLhJkMo7Xol2ofpnQxMdiSUDSr9vsQ3RQ8bN0yarjFZS_KW3Snhkb5KjQo45uuN_sLnC-Lrn.js?_nc_x=Ij3Wp8lg5Kz (from https://www.facebook.com/groups/explore/)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/groups/explore/theaustralian.com.au (from https://www.facebook.com/groups/explore/)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/groups/explore/news.com.au (from https://www.facebook.com/groups/explore/)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/groups/explore/kollosche.com.au (from https://www.facebook.com/groups/explore/)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/groups/explore/awstrack.me (from https://www.facebook.com/groups/explore/)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/groups/explore/'https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/L19T_CK8gdR.png' (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fexplore%2F
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&next=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fexplore%2F (from https://www.facebook.com/groups/explore/)
+20:55:22	Error: 	"Not Found" (404) at link https://www.facebook.com/groups/explore/'https://static.xx.fbcdn.net/rsrc.php/v3/yj/r/ftaZmsoGA0_.png' (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/106078429431815/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/106078429431815/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/108424279189115/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/108424279189115/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/110774245616525/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/110774245616525/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/112047398814697/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/112047398814697/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/110585945628334/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/110585945628334/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/106287062743373/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/106287062743373/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/108081209214649/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/108081209214649/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/115353315143936/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/115353315143936/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/110970792260960/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/110970792260960/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/110346955653479/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/110346955653479/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/111070818917271/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/111070818917271/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/113317605345751/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/113317605345751/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/108659242498155/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/108659242498155/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/106012156106461/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/106012156106461/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/102194039822307/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/102194039822307/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/106504859386230/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/106504859386230/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/105565836144069/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/105565836144069/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/114952118516947/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/114952118516947/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/111175118906315/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/111175118906315/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/groups/explore/locations/111777152182368/
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/groups/explore/locations/111777152182368/ (from https://www.facebook.com/groups/explore/)
+20:55:22	Warning: 	File not added due to mirror cancel: https://www.facebook.com/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjcwMDMyMDAzLCJjYWxsc2l0ZV9pZCI6MzYzOTY5MDQ0ODc4OTI4fQ%3D%3D
+20:55:22	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/reg/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjcwMDMyMDAzLCJjYWxsc2l0ZV9pZCI6MzYzOTY5MDQ0ODc4OTI4fQ%3D%3D (from https://www.facebook.com/pages/create/?ref_type=site_footer)
+20:55:26	Warning: 	File not added due to mirror cancel: https://www.facebook.com/ads/preferences/edit/
+20:55:26	Error: 	"mirror stopped by user" (-1) at link https://www.facebook.com/ads/preferences/edit/ (from https://www.facebook.com/policies/cookies/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 56 seconds : 594 links scanned, 284 files written (48252628 bytes overall) [13611251 bytes received at 25394 bytes/sec], 51170207 bytes transferred using HTTP compression in 283 files, ratio 23%, 5.2 requests per connection
+(304 errors, 88 warnings, 0 messages)

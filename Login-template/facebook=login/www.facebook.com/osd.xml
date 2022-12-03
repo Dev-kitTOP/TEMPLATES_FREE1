@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Facebook</ShortName>
+  <Description>Find the people and posts that matter to you most.</Description>
+  <Contact>support@facebook.com</Contact>
+  <Url type="text/html" template="https://www.facebook.com/search/top/?q={searchTerms}&amp;opensearch=1" method="GET"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="/osd.xml"/>
+  <Url type="application/x-suggestions+json" template="https://www.facebook.com/search/opensearch/suggestions/?q={searchTerms}"/>
+  <LongName>Facebook Search</LongName>
+  <Image height="16" width="16" type="image/vnd.microsoft.icon">https://www.facebook.com/favicon.ico</Image>
+  <AdultContent>false</AdultContent>
+  <Language>en</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+  <moz:SearchForm>https://www.facebook.com/</moz:SearchForm>
+</OpenSearchDescription>
